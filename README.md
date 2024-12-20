@@ -1,2 +1,2 @@
 # template-VCHR
-MKHMN
+Repository template MKHMN
