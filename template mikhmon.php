@@ -99,8 +99,8 @@ if ($getprice == "1000") {
                             <?php if ($v_opsi == 'up') { ?>
                             <?php } else { ?>
                                 <div style="font-weight:bold;font-size:14px;">
-									<center><?php echo $username; ?></center>
-								</div>
+					<center><?php echo $username; ?></center>
+				</div>
                             <?php } ?>
                         </div>
                     </td>
